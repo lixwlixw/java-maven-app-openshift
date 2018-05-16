@@ -8,7 +8,7 @@ public class Application {
    System.out.println("Hello World");
 
    try {
-    Thread.sleep(1000);
+    Thread.sleep(3600000);
    } catch (InterruptedException e) {
     e.printStackTrace();
    }
